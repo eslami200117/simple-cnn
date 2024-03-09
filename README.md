@@ -1,0 +1,1 @@
+Two simple cnn model with different architecture, one is for detecting Kafsh and one for detecting Shrini.
